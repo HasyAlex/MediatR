@@ -83,6 +83,13 @@ using BlazorUI.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\Pages\FetchData.razor"
 using BlazorUI.Data;
 

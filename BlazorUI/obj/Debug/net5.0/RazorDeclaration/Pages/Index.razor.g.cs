@@ -82,6 +82,13 @@ using BlazorUI.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Models;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -90,6 +97,20 @@ using BlazorUI.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 12 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\Pages\Index.razor"
+       
+    List<PersonModel> people;
+
+    protected override Task OnInitializedAsync()
+    {
+        //get list of people
+        return base.OnInitializedAsync();
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
