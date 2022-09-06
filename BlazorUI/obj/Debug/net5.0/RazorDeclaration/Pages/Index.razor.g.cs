@@ -89,6 +89,20 @@ using DemoLibrary.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Handlers;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Queries;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -102,15 +116,15 @@ using DemoLibrary.Models;
        
     List<PersonModel> people;
 
-    protected override Task OnInitializedAsync()
+    protected override async Task OnInitializedAsync()
     {
-        //get list of people
-        return base.OnInitializedAsync();
+        people = await _mediator.Send(new GetPersonListQuery());
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private MediatR.IMediator _mediator { get; set; }
     }
 }
 #pragma warning restore 1591

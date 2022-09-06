@@ -1,0 +1,12 @@
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\refint\DemoLibrary.dll
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
+C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll

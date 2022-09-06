@@ -90,6 +90,20 @@ using DemoLibrary.Models;
 #line hidden
 #nullable disable
 #nullable restore
+#line 12 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Handlers;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\_Imports.razor"
+using DemoLibrary.Queries;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\hasithamadusanka\Desktop\MY_SRC\MediatRDemo\BlazorUI\Pages\FetchData.razor"
 using BlazorUI.Data;
 
