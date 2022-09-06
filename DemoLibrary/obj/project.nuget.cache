@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xxOQj7jbohd9i/79UqedYEa2WGi0SadFqCxZOeEqWA+2elCL4KGGXcbXJJIWA2IWA18vdsDMakGPTodctYk6Dg==",
+  "dgSpecHash": "WqEDO+oSToQeAEzioDxkVzZEmSBk3CwEtJNsltF72cknWpZ2rTd4X6jYQf/6iKkVSeLvAN3qcjR6upzyfblJtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hasithamadusanka\\Desktop\\MY_SRC\\MediatRDemo\\DemoLibrary\\DemoLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hasithamadusanka\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\hasithamadusanka\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
